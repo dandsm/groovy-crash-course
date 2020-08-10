@@ -12,3 +12,10 @@ groovy basic/01-Hello-World.groovy
 cd fileIO/
 groovy 01-FileIO.groovy
 ```
+
+## Run OOP Script
+
+```batch
+cd OOP/
+groovy App.groovy
+```
